@@ -16,4 +16,5 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print('chris and Swag ice climers')
-print('tari as zero suit samus)
+print('tari as zero suit samuse
+print(r rock p paper s sicores  )
