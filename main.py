@@ -30,4 +30,5 @@ print ('main menu super smash bros brawl brawl insanity')
 print ('tyrone mii as yoshi')
 print ('gwen mii as peach')
 print ('subspace battle field rundas battle music')
-#commment
+print ('saiko as king dedede')
+print('birdo as yoshi')
